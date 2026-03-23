@@ -1,0 +1,12 @@
+select Employee.name as Employee,Employee.salary as Salary,Department.name as Department
+from Employee
+join
+Department on Employee.departmentId=Department.id
+where (Employee.departmentId,Employee.salary)in(
+    select
+      departmentId,MAX(salary)
+    from
+      Employee
+    Group by
+      departmentId
+);
