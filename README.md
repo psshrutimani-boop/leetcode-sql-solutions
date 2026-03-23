@@ -17,3 +17,8 @@ Problems solved:
 3. Customers Who Never Order
 4. Combine two tables
 5. Delete duplicate Emails
+6. Rising temperature
+7. Classes with atleast 5 students
+8. Employees Earning more than their managers
+9. Department Highest Salary
+10. Actors and Directors who cooperated at least three times
