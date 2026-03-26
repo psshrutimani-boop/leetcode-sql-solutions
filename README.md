@@ -22,3 +22,10 @@ Problems solved:
 8. Employees Earning more than their managers
 9. Department Highest Salary
 10. Actors and Directors who cooperated at least three times
+11. Game play analysis
+12. Employee bonus
+13. Find customer referee
+14. customer placing the largest number of orders
+15. Big countries
+16. Sales Person
+17. Triangle Judgemnt
