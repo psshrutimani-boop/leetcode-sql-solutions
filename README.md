@@ -28,4 +28,7 @@ Problems solved:
 14. customer placing the largest number of orders
 15. Big countries
 16. Sales Person
-17. Triangle Judgemnt
+17. Triangle Judgement
+18. Not boring movies
+19. Biggest single number
+20. Swap sex of employees
